@@ -3,7 +3,7 @@
      Save this as amazing-snake-game.html and open in VS Code Live Server or your browser.
 -->
 
-<!doctype html>
+<!doctype html> 
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -387,3 +387,4 @@
 </script>
 </body>
 </html>
+
